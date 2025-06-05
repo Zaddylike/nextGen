@@ -1,0 +1,27 @@
+# Python 編譯
+__pycache__/
+*.pyc
+*.pyd
+*.dll
+*.drawio
+
+# VSCode settings
+# .vscode/settings.json
+
+# 測試記錄
+# *.log
+*.csv
+*.xlsx
+*.mp4
+*.txt
+*.zip
+
+# virtual env
+.env/
+.venv/
+env/
+venv/
+
+# another ignore
+.DS_Store
+

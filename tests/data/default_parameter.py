@@ -1,0 +1,1 @@
+DEFAULT_DOMAIN = "https://nextgen-sso-prod.icp-cfh.com/login"
